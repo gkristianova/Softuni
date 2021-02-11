@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj": {}
+    "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj": {
+    "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj",
+        "projectUniqueName": "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj",
         "projectName": "2. Stack Sum",
-        "projectPath": "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj",
+        "projectPath": "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj",
         "packagesPath": "C:\\Users\\Glori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\obj\\",
+        "outputPath": "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\2. Stack Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Glori\\AppData\\Roaming\\NuGet\\NuGet.Config",

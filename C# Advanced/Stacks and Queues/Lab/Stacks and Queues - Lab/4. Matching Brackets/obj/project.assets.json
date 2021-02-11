@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
+      "projectUniqueName": "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
       "projectName": "4. Matching Brackets",
-      "projectPath": "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
+      "projectPath": "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
       "packagesPath": "C:\\Users\\Glori\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\4. Matching Brackets\\obj\\",
+      "outputPath": "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\4. Matching Brackets\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Glori\\AppData\\Roaming\\NuGet\\NuGet.Config",

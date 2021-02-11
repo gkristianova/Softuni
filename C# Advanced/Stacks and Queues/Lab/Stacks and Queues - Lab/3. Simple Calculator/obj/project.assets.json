@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\3. Simple Calculator\\3. Simple Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\3. Simple Calculator\\3. Simple Calculator.csproj",
       "projectName": "3. Simple Calculator",
-      "projectPath": "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\3. Simple Calculator\\3. Simple Calculator.csproj",
+      "projectPath": "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\3. Simple Calculator\\3. Simple Calculator.csproj",
       "packagesPath": "C:\\Users\\Glori\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Glori\\Documents\\Softuni\\Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\3. Simple Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Glori\\Documents\\GitHub\\SoftUni\\C# Advanced\\Stacks and Queues\\Lab\\Stacks and Queues - Lab\\3. Simple Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Glori\\AppData\\Roaming\\NuGet\\NuGet.Config",
